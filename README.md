@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @GloverAIO
 - 👀 I’m interested in ... Code language input/output
-- 🌱 I’m currently learning ... Computer Information and Science
+- 🌱 I’m currently learning ... Computer Science and Information
 - 💞️ I’m looking to collaborate on ... New Projects
-- 📫 How to reach me ... Email
-- 😄 Pronouns: ... That Guy
+- 📫 How to reach me ... Alvinglover88@yahoo.com
 - ⚡ Fun fact: ... I know nothing ready for anything
 
 <!---
